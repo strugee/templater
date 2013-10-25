@@ -9,5 +9,5 @@ setup(name='templater',
 	author_email='alexander3223098@gmail.com',
 	url='https://github.com/strugee/templater',
 	py_modules=['templater'],
-	
+	requires=['pystache']
      )
